@@ -1,0 +1,392 @@
+{
+ "isi_fazlasi": {
+  "baslik": "Isı fazlası (rakımdan arındırılmış)",
+  "dosya": "data/katman_isi_fazlasi.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": -7.141,
+  "ust": 7.141,
+  "palet": "RdBu_r",
+  "birim": "°C",
+  "merkezli": true,
+  "renkler": [
+   "#053061",
+   "#2a71b2",
+   "#6bacd1",
+   "#c2ddec",
+   "#f7f6f6",
+   "#fbccb4",
+   "#e48066",
+   "#ba2832",
+   "#67001f"
+  ]
+ },
+ "lst": {
+  "baslik": "Yüzey sıcaklığı (2023–2025 yaz)",
+  "dosya": "data/katman_lst.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 29.126,
+  "ust": 50.775,
+  "palet": "Spectral_r",
+  "birim": "°C",
+  "merkezli": false,
+  "renkler": [
+   "#5e4fa2",
+   "#3f97b7",
+   "#89d0a4",
+   "#d8ef9b",
+   "#fffebe",
+   "#fed27f",
+   "#f88c51",
+   "#dc484c",
+   "#9e0142"
+  ]
+ },
+ "ndvi": {
+  "baslik": "Bitki örtüsü yoğunluğu (NDVI)",
+  "dosya": "data/katman_ndvi.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 0.185,
+  "ust": 0.808,
+  "palet": "RdYlGn",
+  "birim": "",
+  "merkezli": false,
+  "renkler": [
+   "#a50026",
+   "#de402e",
+   "#f98e52",
+   "#fed481",
+   "#feffbe",
+   "#cbe982",
+   "#84ca66",
+   "#2aa054",
+   "#006837"
+  ]
+ },
+ "agac": {
+  "baslik": "Ağaç örtüsü oranı",
+  "dosya": "data/katman_agac.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 0.0,
+  "ust": 0.883,
+  "palet": "Greens",
+  "birim": "",
+  "merkezli": false,
+  "renkler": [
+   "#f7fcf5",
+   "#e5f5e0",
+   "#c7e9c0",
+   "#a0d99b",
+   "#73c476",
+   "#40aa5d",
+   "#228a44",
+   "#006c2c",
+   "#00441b"
+  ]
+ },
+ "ndbi": {
+  "baslik": "Yapılaşma indeksi (NDBI)",
+  "dosya": "data/katman_ndbi.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": -0.374,
+  "ust": 0.084,
+  "palet": "YlOrBr",
+  "birim": "",
+  "merkezli": false,
+  "renkler": [
+   "#ffffe5",
+   "#fff7bc",
+   "#fee390",
+   "#fec34f",
+   "#fe9829",
+   "#eb6f14",
+   "#cb4b02",
+   "#983404",
+   "#662506"
+  ]
+ },
+ "serin_mesafe": {
+  "baslik": "Serin sığınağa mesafe",
+  "dosya": "data/katman_serin_mesafe.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 0.0,
+  "ust": 2948.75,
+  "palet": "magma_r",
+  "birim": "m",
+  "merkezli": false,
+  "renkler": [
+   "#fcfdbf",
+   "#fec287",
+   "#fb8761",
+   "#e55064",
+   "#b5367a",
+   "#812581",
+   "#4f127b",
+   "#1c1044",
+   "#000004"
+  ]
+ },
+ "yukselti": {
+  "baslik": "Yükselti",
+  "dosya": "data/katman_yukselti.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 1017.877,
+  "ust": 2524.196,
+  "palet": "hipsometrik",
+  "birim": "m",
+  "merkezli": false,
+  "renkler": [
+   "#2e6b35",
+   "#5d9d4b",
+   "#99c069",
+   "#cfd585",
+   "#e6d18a",
+   "#ddb271",
+   "#ca8e58",
+   "#b06f45",
+   "#8c5236"
+  ]
+ },
+ "albedo": {
+  "baslik": "Albedo (yüzey yansıtıcılığı)",
+  "dosya": "data/katman_albedo.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 0.12,
+  "ust": 0.217,
+  "palet": "bone",
+  "birim": "",
+  "merkezli": false,
+  "renkler": [
+   "#000000",
+   "#1c1c27",
+   "#38384e",
+   "#545574",
+   "#707b90",
+   "#8ca2ac",
+   "#a9c8c8",
+   "#d5e4e4",
+   "#ffffff"
+  ]
+ },
+ "egim": {
+  "baslik": "Eğim",
+  "dosya": "data/katman_egim.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 0.902,
+  "ust": 35.426,
+  "palet": "YlOrRd",
+  "birim": "°",
+  "merkezli": false,
+  "renkler": [
+   "#ffffcc",
+   "#ffeda0",
+   "#fed976",
+   "#feb24c",
+   "#fd8c3c",
+   "#fc4d2a",
+   "#e2191c",
+   "#bb0026",
+   "#800026"
+  ]
+ },
+ "yapi_oran": {
+  "baslik": "Yapı oranı (150 m komşuluk)",
+  "dosya": "data/katman_yapi_oran.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 0.0,
+  "ust": 0.046,
+  "palet": "Purples",
+  "birim": "",
+  "merkezli": false,
+  "renkler": [
+   "#fcfbfd",
+   "#efedf5",
+   "#dadaeb",
+   "#bcbddc",
+   "#9e9ac8",
+   "#807cba",
+   "#6950a3",
+   "#53268f",
+   "#3f007d"
+  ]
+ },
+ "yesil": {
+  "baslik": "Yeşil örtü (ağaç/çalı/otlak)",
+  "dosya": "data/katman_yesil.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 0.0,
+  "ust": 1.0,
+  "palet": "YlGn",
+  "birim": "",
+  "merkezli": false,
+  "renkler": [
+   "#ffffe5",
+   "#f7fcb9",
+   "#d9f0a3",
+   "#acdd8e",
+   "#77c679",
+   "#40aa5c",
+   "#228343",
+   "#006737",
+   "#004529"
+  ]
+ },
+ "bina": {
+  "baslik": "Bina yüksekliği",
+  "dosya": "data/katman_bina.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 0.0,
+  "ust": 0.191,
+  "palet": "Oranges",
+  "birim": "m",
+  "merkezli": false,
+  "renkler": [
+   "#fff5eb",
+   "#fee6ce",
+   "#fdd0a2",
+   "#fdae6a",
+   "#fd8c3b",
+   "#f16813",
+   "#d84801",
+   "#a53603",
+   "#7f2704"
+  ]
+ },
+ "sicak_nokta": {
+  "baslik": "Sıcak noktalar (eşik üstü)",
+  "dosya": "data/katman_sicak_nokta.png",
+  "sinir": [
+   [
+    38.45370299940209,
+    39.91285265792056
+   ],
+   [
+    39.54816498489304,
+    41.30158036592559
+   ]
+  ],
+  "alt": 0.0,
+  "ust": 1.0,
+  "palet": "Reds",
+  "birim": "",
+  "merkezli": false,
+  "renkler": [
+   "#fff5f0",
+   "#fee0d2",
+   "#fcbba1",
+   "#fc9272",
+   "#fb694a",
+   "#ee3a2c",
+   "#ca181d",
+   "#a30f15",
+   "#67000d"
+  ]
+ }
+}
